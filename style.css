@@ -1,0 +1,11 @@
+* {
+    background-color: aquamarine;
+}
+
+
+#Title {
+    display: inline-block;
+    text-align: center;
+    border: 2px black;
+    font-size: 12px;
+}
